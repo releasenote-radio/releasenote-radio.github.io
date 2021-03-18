@@ -1,13 +1,13 @@
 actors:
-  alice:
+  hoge:
     image_url: /images/actors/alice.png
-    name: alice
+    name: hoge
     url: http://sns.example.com/alice
-  bob:
+  fuga:
     image_url: /images/actors/bob.png
-    name: bob
+    name: fuga
     url: http://sns.example.com/bob
-author: alice
+author: hoge
 description: Example description
 description_long: Example long description
 email: info@example.com
