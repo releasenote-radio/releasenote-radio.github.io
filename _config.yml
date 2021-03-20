@@ -1,16 +1,12 @@
 actors:
-  hoge:
+  4n3i:
     image_url: /images/actors/alice.png
-    name: hoge
-    url: http://sns.example.com/alice
-  fuga:
-    image_url: /images/actors/bob.png
-    name: fuga
-    url: http://sns.example.com/bob
-author: hoge
-description: Example description
-description_long: Example long description
-email: info@example.com
+    name: 4n3i
+    url: https://twitter.com/4n3i_
+author: 4n3i
+description: in progress
+description_long: 日々の進捗を話すやつ
+email:
 exclude:
   - docker
   - docker-compose.yml
@@ -20,7 +16,7 @@ exclude:
   - README.md
   - vendor
 google_analytics:
-hashtag: examplehashtag
+hashtag: riri-suno-to
 itunes_podcast_url:
 keywords: comma,separated,keywords
 language: ja
@@ -29,5 +25,5 @@ permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: Example title
-url: http://example.com
+title: riri-suno-to.radio
+url:
